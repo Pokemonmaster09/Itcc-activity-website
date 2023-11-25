@@ -1,0 +1,72 @@
+body{
+    background-image: url( corn.jpg);
+}
+h1{
+    font-family: 'Abril Fatface', serif;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Arvo', serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Vina Sans', sans-serif;
+    font-weight: normal;
+    
+}
+h2{
+color:#F4C430;
+font-size: medium;
+position:relative;
+bottom:50px;
+
+}
+.Button1{
+    border-radius:10px;
+    border-color: white;
+    height:30px;
+    width: 150px;
+    text-align: center;
+    position:relative;
+    bottom: 50px;
+    left:1300px;
+    background-color: #fbec5d;
+    border: none;
+  
+  }
+  .Button2{
+    border-radius:20px;
+    border-color: white;
+    height:30px;
+    width: 100px;
+    position:relative;
+    bottom: 80px;
+    left:1000px;
+    background-color: black;
+    color:white;
+    border: none;
+   
+    
+  }
+  .Button3{
+    border-radius:20px;
+    border-color: white;
+    height:30px;
+    width: 150px;
+    position:relative;
+    bottom: 110px;
+    left:1125px;
+    background-color:black;
+    color: white;
+    border: none;
+  }
+  .Button4{
+    border-radius:7px;
+    border-color: white;
+    height:50px;
+    width: 300px;
+    position:relative;
+    left:1125px;
+    top:350px;
+
+  }
+   h1{
+    color:white;
+   }
